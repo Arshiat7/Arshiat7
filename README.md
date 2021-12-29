@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arshiat7
+- 👋 Hi, I’m Arafat Kabir
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 <!---
